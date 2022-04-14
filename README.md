@@ -1,1 +1,2 @@
-# TCR-Innovation-Project
+# Java-SQL-project
+TCR INNOVATION project
